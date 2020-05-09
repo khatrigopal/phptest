@@ -1,4 +1,4 @@
 <?php
-print "Hello  Cloud World!<br>";
+print "Hello  World!<br>";
 
 ?>
