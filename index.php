@@ -1,5 +1,5 @@
 <?php
-print "Hello Amzaing This Cloud  World!";
+print "Hello Cloud  World!";
 print "This is India";
 echo "</br>";
 echo "</br>";
